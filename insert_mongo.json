@@ -1,0 +1,10 @@
+ {
+    title: "Steve's Favourite Film",
+    genres: [ "Drama", "History" ],
+    runtime: 115,
+    rated: "12",
+    year: 2018,
+    directors: [ "Yorgos Lanthimos" ],
+    cast: [ "Michael Caine", "Olivia Colman", "Emma Stone", "Rachel Weisz" ],
+    type: "movie"
+  }
